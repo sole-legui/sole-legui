@@ -5,6 +5,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like sewing and upcycling clothes
 
+	/github/pipenv/locked/python-version/:user/:repo
+
 <!--
 **sole-legui/sole-legui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
