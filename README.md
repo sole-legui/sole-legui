@@ -1,7 +1,7 @@
 ### Hi there I’m Sole 👋
 
 - 🌱 I’m currently learning Data Science. I’ve a background in Tourism Industry, Social Media, E-commerce and Digital Marketing.
-- 🚀 I’m looking for new profesional challenges.
+- 🚀 I’m looking for new professional challenges.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like sewing and upcycling clothes
 
